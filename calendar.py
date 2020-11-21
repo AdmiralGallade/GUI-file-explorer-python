@@ -48,7 +48,7 @@ if __name__ == "__main__" :
     gui.config(background = "white") 
   
     # set the name of tkinter GUI window  
-    gui.title("CALENDAR") 
+    gui.title("CALENDER") 
   
     # Set the configuration of GUI window 
     gui.geometry("250x140") 
